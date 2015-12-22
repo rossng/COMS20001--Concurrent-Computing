@@ -352,7 +352,7 @@ QB1.4 Pugsley  <br />
 *   Bipartite Graph (Petri Net)
 *   Bottle Neck (Communication Properties)
 *   Caching
-*   **Callable** (Java)
+*   `Callable` (Java)
 *   Central Directory Server
 *   Channel Communication
 *   Channel Bandwidth
@@ -378,8 +378,7 @@ QB1.4 Pugsley  <br />
 *   Divergence
 *   Dynamic Analysis (Petri Net)
 *   Event (CSP)
-
-*   **Executor** (Java)
+*   `Executor` (Java)
 *   External Choice (CSP)
 *   Failures (CSP)
 *   Failure-Divergence-Refinement (CSP)
@@ -389,7 +388,7 @@ QB1.4 Pugsley  <br />
 *   Flynn's Taxonomy
 *   Firing (Petri Net)
 *   Front Side Bus
-*   **Future** (Java)
+*   `Future` (Java)
 *   Geometric Parallelism
 *   Guarded Choice (CSP)
 *   Granularity
@@ -416,14 +415,13 @@ QB1.4 Pugsley  <br />
 *   Multimemory System
 *   Multithreading
 *   Mutex (Java)
-
 *   Mutual Exclusion
 *   Mutual Independence (Threads)
 *   Non-Determinism
 *   OnChip Network
-*   **on stdcore** (XC)
+*   `on stdcore` (XC)
 *   Orchestration
-*   **par** (XC)
+*   `par` (XC)
 *   Parellelism
 *   Peterson's Algorithm
 *   Petri Nets
@@ -448,10 +446,9 @@ QB1.4 Pugsley  <br />
 *   Runnable (Java)
 *   Safety (Process Property)
 *   Scalability (System Property)
-*   **select** (XC)
+*   `select` (XC)
 *   Semaphore (Java)
 *   Shared Memory
-
 *   Silent Event (CSP)
 *   SIMD (Architecture)
 *   SISD (Architecture)
@@ -466,7 +463,7 @@ QB1.4 Pugsley  <br />
 *   Synchronised Communication
 *   'Tau' Event (CSP)
 *   Test-And-Set Operation
-*   **Thread** (Java)
+*   `Thread` (Java)
 *   Thread - Shared Environment
 *   Thread Instantiation
 *   threadsafe (Java)
@@ -482,7 +479,7 @@ QB1.4 Pugsley  <br />
 *   Transitions (Petri Net)
 *   Tree Reduction
 *   Virtual Memory
-*   **volatile** (Java)
+*   `volatile` (Java)
 *   Volatile Data
 *   XC Language
 *   XC/C Integration
