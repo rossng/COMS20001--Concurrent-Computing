@@ -61,9 +61,9 @@ The components and their relationships are illustrated in the diagram below.
                     Mon 28.09.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Introduction and History</strong><br>
-                    <a href="MM/MM_L1print.pdf" >(print version
+                    <a href="slides/MM_L1print.pdf" >(print version
                     6pp)</a><br>
-                    <a href="MM/MM_L1.pdf">(slides)</a><br>
+                    <a href="slides/MM_L1.pdf">(slides)</a><br>
                     <hr>
                     <a href="http://doodle.com/poll/iu8dx2n4padetpua"><b>--
                     TEAM SIGNUP --</b><br>
@@ -75,16 +75,16 @@ The components and their relationships are illustrated in the diagram below.
                     Fri 02.10.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Towards Concurrent Programming in xC</strong><br>
-                    <a href="TB/2015-COMS20001-TB-02print.pdf">(print version
+                    <a href="slides/2015-COMS20001-TB-02print.pdf">(print version
                     6pp)</a><br>
-                    <a href="TB/2015-COMS20001-TB-02.pdf">(slides)</a><br>
+                    <a href="slides/2015-COMS20001-TB-02.pdf">(slides)</a><br>
                     <hr>
-                    Code: <a href="TB/hello.xc">hello.xc</a>, <a href=
-                    "TB/par.xc">par.xc</a>, <a href=
-                    "TB/hellotile.xc">hellotile.xc</a>, <a href=
-                    "TB/partc.c">partc.c</a>, <a href=
-                    "TB/partxc.xc">partxc.xc</a>, <a href=
-                    "TB/interface.xc">interface.xc</a>
+                    Code: <a href="code/week-01/lecture-02/hello.xc">hello.xc</a>, <a href=
+                    "code/week-01/lecture-02/par.xc">par.xc</a>, <a href=
+                    "code/week-01/lecture-02/hellotile.xc">hellotile.xc</a>, <a href=
+                    "code/week-01/lecture-02/partc.c">partc.c</a>, <a href=
+                    "code/week-01/lecture-02/partxc.xc">partxc.xc</a>, <a href=
+                    "code/week-01/lecture-02/interface.xc">interface.xc</a>
                 </td>
                 <td align="left" valign="top">
                     <p>SLOT: Fri 02.10.15, 2pm-4pm MVB 2.11 or<br>
@@ -92,8 +92,8 @@ The components and their relationships are illustrated in the diagram below.
                     <strong>LAB 01: Warm-up &amp; xC Threads</strong><br>
                     <em>Topic: Concurrent Code Execution<br>
                     (Parallelism and Non-Determinism)</em><br>
-                    <a href="TB/Lab01A.html">Part A: Getting Started</a><br>
-                    <a href="TB/Lab01B.html">Part B: Parallel Ants</a></p>
+                    <a href="Lab01A.md">Part A: Getting Started</a><br>
+                    <a href="Lab01B.md">Part B: Parallel Ants</a></p>
                     <hr>
                     <a href="https://www.xmos.com/support/xtools">External: Get xTimeComposer</a><br>
                     <a href="https://www.xmos.com/download/private/XC-Specification%283%29.pdf">External: XC Specification</a><br>
@@ -111,9 +111,9 @@ The components and their relationships are illustrated in the diagram below.
                     Mon 05.10.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Deadlocks and Channel Communication</strong><br>
-                    <a href="MM/MM_L2print.pdf" >(print version
+                    <a href="slides/MM_L2print.pdf" >(print version
                     6pp)</a><br>
-                    <a href="MM/MM_L2.pdf" >(slides)</a><br>
+                    <a href="slides/MM_L2.pdf" >(slides)</a><br>
                     <a href=
                     "http://www.doc.ic.ac.uk/~jnm/concurrency/classes/Diners/Diners.html">
                     Dining Philosophers</a>
@@ -122,9 +122,9 @@ The components and their relationships are illustrated in the diagram below.
                     Fri 09.10.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Data Exchange for Processes in xC</strong><br>
-                    <a href="TB/2015-COMS20001-TB-04print.pdf">(print version
+                    <a href="slides/2015-COMS20001-TB-04print.pdf">(print version
                     6pp)</a><br>
-                    <a href="TB/2015-COMS20001-TB-04.pdf">(slides)</a><br>
+                    <a href="slides/2015-COMS20001-TB-04.pdf">(slides)</a><br>
                 </td>
                 <td align="left" valign="top">
                     <p>SLOT: Fri 09.10.15, 2pm-4pm MVB 2.11 or<br>
@@ -132,7 +132,7 @@ The components and their relationships are illustrated in the diagram below.
                     <strong>LAB 02: xC Channels</strong><br>
                     <em>Topic: Communicating Threads<br>
                     (Runtime Interlinks and Deadlock)</em><br>
-                    <a href="TB/Lab02A.html" >Queen &amp; Worker
+                    <a href="slides/Lab02A.html" >Queen &amp; Worker
                     Ants</a></p>
                     <hr>
                     <!--<a
@@ -150,18 +150,18 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 19.10.14, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Replication &amp; Pipelining</strong><br>
-                    <a href="MM/MM_L3print.pdf" >(print version
+                    <a href="slides/MM_L3print.pdf" >(print version
                     6pp)</a><br>
-                    <a href="MM/MM_L3.pdf" >(slides)</a><br>
+                    <a href="slides/MM_L3.pdf" >(slides)</a><br>
                 </td>
                 <td align="left" colspan="2" valign="top">
                     Fri 16.10.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>CSP Abstraction: Events, Processes, Traces,
                     Refinement<br></strong> <a href=
-                    "TB/2015COMS20001TB06print.pdf" >(print
+                    "slides/2015COMS20001TB06print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB06.pdf"
+                    <a href="slides/2015COMS20001TB06.pdf"
                     >(slides)</a>
                 </td>
                 <td align="left" rowspan="2" valign="top">
@@ -172,12 +172,12 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Fri 23.10.15, 4pm-6pm MVB 2.11<br>
                     <p></p>
                     <h2 align="center"><strong><a href=
-                    "TB/2015COMS20001DefenderGame.pdf"
+                    "slides/2015COMS20001DefenderGame.pdf"
                     >ASSIGNMENT WEEKS 3-4</a></strong></h2>
                     <p align="center"><strong>(pair programming, formative,
                     0%)</strong><br>
                     (xCore-200 Explorer Kit required)<br>
-                    <a href="TB/skeleton.xc" ><br>
+                    <a href="slides/skeleton.xc" ><br>
                     Download Code Skeleton (xc)</a><br></p>
                 </td>
             </tr>
@@ -188,9 +188,9 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Fri 23.10.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Choice, Refusals, Failures<br></strong><a href=
-                    "TB/2015COMS20001TB08print.pdf" >(print
+                    "slides/2015COMS20001TB08print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB08.pdf"
+                    <a href="slides/2015COMS20001TB08.pdf"
                     >(slides)</a>
                 </td>
             </tr>
@@ -201,9 +201,9 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 26.10.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Concurrent System Design</strong><br>
-                    <a href="MM/MM_L4print.pdf" >(print version
+                    <a href="slides/MM_L4print.pdf" >(print version
                     6pp)</a><br>
-                    <a href="MM/MM_L4.pdf" >(slides)</a><br>
+                    <a href="slides/MM_L4.pdf" >(slides)</a><br>
                     <p></p>
                 </td>
                 <td align="left" colspan="2" rowspan="2" valign="top">
@@ -211,21 +211,21 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Fri 06.11.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Bridging the Gap: xC and CSP</strong><br>
-                    <a href="TB/2015COMS20001TB10print.pdf"
+                    <a href="slides/2015COMS20001TB10print.pdf"
                     >(print version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB10.pdf"
+                    <a href="slides/2015COMS20001TB10.pdf"
                     >(slides)</a>
                 </td>
                 <td align="left" rowspan="6" valign="top">
                     <p>LAB SLOTS WEEKS 5-10<br>
                     Fri 2pm-4pm/4pm-6pm MVB 2.11</p>
                     <hr>
-                    <h2 align="center"><strong><a href="TB/COMS20001Farm.pdf"
+                    <h2 align="center"><strong><a href="slides/COMS20001Farm.pdf"
                     >ASSIGNMENT WEEKS 5-10</a></strong></h2>
                     <p align="center"><strong>(pair programming, summative,
                     25%)</strong><br>
                     (xCore-200 Explorer Kit required)<br>
-                    <a href="TB/farm.zip" ><br>
+                    <a href="slides/farm.zip" ><br>
                     Download Skeleton Project (xTimeComposer)</a></p>
                     <hr>
                     PGM Images: <a href="test.pgm" >16x16</a>,
@@ -243,9 +243,9 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 02.11.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Paradigms of Parallelism</strong><br>
-                    <a href="MM/MM_L5print.pdf" >(print version
+                    <a href="slides/MM_L5print.pdf" >(print version
                     6pp)</a><br>
-                    <a href="MM/MM_L5.pdf" >(slides)</a><br>
+                    <a href="slides/MM_L5.pdf" >(slides)</a><br>
                     <p></p>
                 </td>
             </tr>
@@ -256,18 +256,18 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 09.11.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Liveness and Deadlock<br></strong> <a href=
-                    "TB/2015COMS20001TB11print.pdf" >(print
+                    "slides/2015COMS20001TB11print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB11.pdf"
+                    <a href="slides/2015COMS20001TB11.pdf"
                     >(slides)</a>
                 </td>
                 <td align="left" colspan="2" valign="top">
                     Fri 13.11.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Introduction to Petri Nets<br></strong> <a href=
-                    "TB/2015COMS20001TB13print.pdf" >(print
+                    "slides/2015COMS20001TB13print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB13.pdf"
+                    <a href="slides/2015COMS20001TB13.pdf"
                     >(slides)</a>
                 </td>
             </tr>
@@ -278,18 +278,18 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 16.11.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Detailed Execution Control in xC<br></strong>
-                    <a href="TB/2015COMS20001TB14print.pdf"
+                    <a href="slides/2015COMS20001TB14print.pdf"
                     >(print version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB14.pdf"
+                    <a href="slides/2015COMS20001TB14.pdf"
                     >(slides)</a>
                 </td>
                 <td align="left" colspan="2" valign="top">
                     Fri 20.11.15, 10am<br>
                     PRIORY CMPLX D BLK 2D3<br>
                     <strong>Race Conditions and Critical Sections<br></strong>
-                    <a href="TB/2015COMS20001TB15print.pdf"
+                    <a href="slides/2015COMS20001TB15print.pdf"
                     >(print version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB15.pdf"
+                    <a href="slides/2015COMS20001TB15.pdf"
                     >(slides)</a>
                 </td>
             </tr>
@@ -301,9 +301,9 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     QB1.4 Pugsley (no Friday Lecture)<br>
                     <strong>Basics of Memory and Process
                     Administration<br></strong> <a href=
-                    "TB/2015COMS20001TB16print.pdf" >(print
+                    "slides/2015COMS20001TB16print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB16.pdf"
+                    <a href="slides/2015COMS20001TB16.pdf"
                     >(slides)</a>
                 </td>
             </tr>
@@ -314,9 +314,9 @@ href="https://www.xmos.com/download/public/XMOS-Programming-Guide-%28documentati
                     Mon 30.11.15, 12noon<br>
                     QB1.4 Pugsley<br>
                     <strong>Advanced Data Access in xC<br></strong> <a href=
-                    "TB/2015COMS20001TB17print.pdf" >(print
+                    "slides/2015COMS20001TB17print.pdf" >(print
                     version 6pp)</a><br>
-                    <a href="TB/2015COMS20001TB17.pdf"
+                    <a href="slides/2015COMS20001TB17.pdf"
                     >(slides)</a>
                 </td>
                 <td align="left" colspan="2" valign="top">Fri 04.12.15,
