@@ -24,11 +24,11 @@ The components and their relationships are illustrated in the diagram below.
 
 ## People: Staff, Teaching Assistants and Students
 
-| Weeks          |                    |                     |                           |
-|----------------|--------------------|---------------------|---------------------------|
-| 01-12          | Majid Mirmehdi     | majid@cs.bris.ac.uk |                           |
-| Tilo Burghardt | tilo@cs.bris.ac.uk |                     |                           |
-|                | 13-24              | Daniel Page         | daniel.page@bristol.ac.uk |
+| Weeks          |                    |                           |
+|----------------|--------------------|---------------------------|
+| 01-12          | Majid Mirmehdi     | majid@cs.bris.ac.uk       |
+|                | Tilo Burghardt     | tilo@cs.bris.ac.uk        |
+| 13-24          | Daniel Page        | daniel.page@bristol.ac.uk |
 
 ## Locations: Times and Rooms
 
